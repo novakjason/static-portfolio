@@ -1,20 +1,20 @@
 {
     "title": "Portfolio",
-    "name": "old-portfolio",
+    "name": "static-portfolio",
     "version": "1.0.0",
     "description": "Portfolio for Jason Novak - Full Stack Web Developer",
-    "homepage": "https://novakjason.github.io/old-portfolio/",
+    "homepage": "https://novakjason.github.io/static-portfolio/",
     "bugs": {
-        "url": "https://github.com/novakjason/old-portfolio/issues",
+        "url": "https://github.com/novakjason/static-portfolio/issues",
         "email": "novak.jason7@gmail.com"
     },
     "license": "MIT",
     "author": "Jason Novak",
     "contributors": [
-        "Jason Novak (https://jasonnovak.io/)"
+        "Jason Novak (https://www.iamjasonnovak.com/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/novakjason/old-portfolio.git"
+        "url": "https://github.com/novakjason/static-portfolio.git"
     }
 }
