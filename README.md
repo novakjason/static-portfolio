@@ -1,3 +1,3 @@
-# https://novakjason.github.io/static-portfolio/
+# https://www.iamjasonnovak.com/
 
-Simple static portfolio website for Jason Novak Full Stack Developer
+Simple static portfolio website for Jason Novak - Full Stack Developer
